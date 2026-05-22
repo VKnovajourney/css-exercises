@@ -1,6 +1,8 @@
 /* Add CSS Styling */
 .pink {
     background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 26px;
 }
 
 #blue{
@@ -8,3 +10,13 @@
     font-size: 45px;
 }
 
+#one, #five {
+    font-size: 30px;
+}
+
+#four {
+    font-size: 35px;
+    color: black;
+    background-color: greenyellow;
+    font-weight: bold;
+}
