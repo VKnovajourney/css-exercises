@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+.pink {
+    background-color: pink;
+}
+
+#blue{
+    color: blue;
+    font-size: 45px;
+}
+
