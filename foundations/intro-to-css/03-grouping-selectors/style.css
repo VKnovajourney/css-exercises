@@ -1,16 +1,16 @@
 /* Add CSS Styling */
-#Click, #yellowClick {
+.primary, .secondary {
     font-size: 28px;
     font-family: Helvetica,Times New Roman, sans-serif;
 }
 
-#Click{
+.primary{
     background-color: black;
     color: white;
     font-weight: bold;
 }
 
-#yellowClick{
+.secondary{
      background-color: yellow;
     color: black;
     font-weight: bold;
